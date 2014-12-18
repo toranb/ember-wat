@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'my-x-button'
+  name: 'ember-wat'
 };
